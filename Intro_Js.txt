@@ -1,0 +1,44 @@
+JavaScript 
+
+Topics Today covered:
+	Introduction 
+	History of JavaScript
+	characteristics of js
+	Environments
+	Ways to apply JS
+	Variables
+
+Introduction:
+	JavaScript is a high level programming language which is use to create the dynamic webpages.
+	Without JS the web page look static like it will not response to the user actions such as clicking on the buttons, frameworks
+	with Js we can create the dynamic web page and it will do response to the user interactions.
+
+History of JS:
+		JS is invented by Beredan Eich in 1995
+		He was working in the Netscape communication cooperation 
+		At first it was called as MOCHA later LiveScript after that JavaScript now it is known as ECMA Script
+
+Characterstics of JS:
+	Client-Side Scripting Language
+	Dynamically Typed Language
+	Weakly Typed Language
+	Synchronous in nature
+	Interpreted Language
+
+Environment : in js we have two main environments 
+		Browser
+		Node
+
+Ways to apply the JS:
+  	We have two ways to apply the JS
+	1. Internal JS : by using the <script> tag
+	2. External JS: by creating the new .js extension file
+
+Variables:
+		these are the containers used to store the values/data
+		we can declare the variables by using the keywords like:
+				1. let
+				2. const
+				3. var 
+
+ 
