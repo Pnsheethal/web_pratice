@@ -1,0 +1,21 @@
+JavaScript
+
+Topics:
+	Datatypes:
+ 		Primitive Datatype
+		Non-primitive datatype
+
+
+Primitive Datatypes:
+  Number: It contains only integers and decimal
+  String: It is a combination of the characters which are enclosed with single quotes, double quotes and template literals
+  Boolean: It gives only TRUE or FALSE values
+  Null: It  means nothing or empty values will be there but not ZERO
+  Undefined: These means a variable is exist but it doesn't have the value or value is not assigned
+   Symbol: Even though the data is same it will create the unique identity or variable
+   Big-int: To specify this wee need to add the "n"
+  
+Non-Primitive Datatype:
+	Object
+	Array
+	Function
