@@ -1,0 +1,42 @@
+Decision - Statements:
+Types Of decision-making statements:
+	IF-statements
+	IF-ELSE statement
+	ELSE-IF statement
+
+
+* if-statement will run when the condition is true only
+
+syntax:
+if(condition){
+	//code
+}
+
+* if-else statement will run on different based on true or false if the if condition is true it will execute that block otherwise it will execute else block
+
+syntax: if (condition){
+		//Code
+	}else{
+		// else block
+	}
+
+* else -if ladder : it will check the multiple conditions
+
+syntax: 
+if(condition){
+	//if-block code
+}else-if (condition){
+	//else-if code
+}else-if (condition){
+	//else-if code
+}else{
+ //else code
+}
+
+Ternary operator: is a shorthand way to writing an if-else statement also called conditional operator
+syntax:
+
+condition ? (statement1) : (statement2)
+
+
+
