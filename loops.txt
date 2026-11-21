@@ -1,0 +1,27 @@
+LOOPS:
+ for loop 
+ while loop
+
+
+1. for loop
+Used when we know how many times we want to execute the code.
+
+Syntax:
+for (initialization; condition; increment/decrement) {
+    // code
+}
+
+
+
+
+2. while loop
+Used when we don't know exactly how many times the loop should execute. It checks the condition before executing.
+
+Syntax:
+
+initialization;
+
+while (condition) {
+    // code
+    increment/decrement;
+}

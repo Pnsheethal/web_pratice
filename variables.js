@@ -26,7 +26,7 @@ console.log(name);
 
 
 
-^ let keyword
+// ^let keyword
 
 let name ='Somu'  //& initialization and declaration is possible on same line
 console.log(name);
