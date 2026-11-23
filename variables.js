@@ -51,19 +51,19 @@ console.log(name);
 
 
 
-^ const keyword
+//^ const keyword
 
-const name   //& only declarazition is not possible
-console.log(name);
+// const name   //& only declarazition is not possible
+// console.log(name);
 
 
 const name='somu'  //& declarazition and intialization on same line is possible
 console.log(name);
 
 
-const name   //& declarazition and intialization on different line is not-possible
-name='Smou'
-console.log(name);
+// const name   //& declarazition and intialization on different line is not-possible
+// name='Smou'
+// console.log(name);
 
 
 const name='somu'  //& re-declarazition is not possible
